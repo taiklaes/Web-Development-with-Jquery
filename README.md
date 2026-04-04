@@ -18,10 +18,10 @@ O curso tem como objetivo apresentar os principais conceitos da Biblioteca jQuer
 O repositório está organizado da seguinte forma:
 
 ```
-/src -> Códigos-fonte dos exercícios e projetos, separados por aula
+/src
   └── /class-0X -> Pasta de cada aula
-        └── index.html
-        └── script.js
+        └── index.html -> Código-fonte HTML
+        └── script.js -> Código-fonte JavaScript
 ```
 
 ## ⚙️ Tecnologias
