@@ -22,6 +22,7 @@ O repositório está organizado da seguinte forma:
   └── /class-0X -> Pasta de cada aula
         └── index.html -> Código-fonte HTML
         └── script.js -> Código-fonte JavaScript
+        └── README.md -> Resumo da aula
 ```
 
 ## ⚙️ Tecnologias
