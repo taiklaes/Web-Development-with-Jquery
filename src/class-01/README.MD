@@ -25,7 +25,7 @@ Esta repositório contém os conceitos iniciais do jQuery, incluindo sua finalid
 ## Origem do nome
 - **J** = JavaScript  
 - **Query** = consulta  
-➡️ Permite selecionar elementos e aplicar ações
+- - Permite selecionar elementos e aplicar ações
 
 ## Sintaxe básica
 ```js
@@ -90,7 +90,7 @@ Ações do usuário na página:
 - Formulário: `submit`, `change`, `focus`, `blur`
 - Janela: `load`, `resize`, `scroll`, `unload`
 
-## 👆 Evento click
+## Evento click
 Executa uma função ao clicar no elemento
 ```js
 $("p").click(function(){
