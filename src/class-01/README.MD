@@ -25,7 +25,7 @@ Esta repositório contém os conceitos iniciais do jQuery, incluindo sua finalid
 ## Origem do nome
 - **J** = JavaScript  
 - **Query** = consulta  
-- - Permite selecionar elementos e aplicar ações
+  - Permite selecionar elementos e aplicar ações
 
 ## Sintaxe básica
 ```js
